@@ -1,0 +1,35 @@
+.product-card {
+    width: 100%;
+    min-height: 150px;
+    margin-bottom: 18px;
+    padding: 18px 20px;
+    box-sizing: border-box;
+    color: #d8d8dc;
+    background: #1b1b20;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.product-card h3 {
+    margin: 9px 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.product-name{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.product-brand{
+    font-weight: 700;
+}
+
+.target-check{
+    font-size: 20px;
+    font-weight: 700;
+}
